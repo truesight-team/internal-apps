@@ -1,34 +1,55 @@
 ---
 layout: post
-title:  "Tải ứng dụng DMS Vinaseed"
-date:   2022-02-23 14:57:06 +0700
+title:  "Tải ứng dụng DMS"
+date:   2022-11-16 14:57:06 +0700
 categories: jekyll update
 ---
 
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.1/css/bootstrap.min.css" integrity="sha512-T584yQ/tdRR5QwOpfvDfVQUidzfgc2339Lc8uBDtcp/wYu80d7jwBgAxbyMh0a9YM9F8N3tdErpFI8iaGx6x5g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
-## App Đại lý
+# Rạng Đông
+### App Đại lý
 
+### App Nhân viên
 <div class="d-flex justify-content-center">
-<a role="button" class="btn btn-primary mx-2 my-4" href="https://github.com/truesight-team/vinaseed-apps/releases/download/dev/VinaseedDaiLy.apk">
+<a role="button" class="btn btn-primary mx-2 my-4" href="https://install.appcenter.ms/users/tungpt46.fpt/apps/dms-android/distribution_groups/fpt">
   Android
 </a>
 
-<a role="button" class="btn btn-primary mx-2 my-4" href="itms-services:///?action=download-manifest&url=https://vinaseed-apps.truesight.asia/downloads/vinaseed-store.plist">
+<a role="button" class="btn btn-primary mx-2 my-4" href="https://install.appcenter.ms/users/tungpt46.fpt/apps/dms-ios/distribution_groups/fpt">
   iOS
 </a>
 </div>
 
-## App Nhân viên
 
+# Vinaseed
 
+### App Đại lý
+
+### App Nhân viên
 <div class="d-flex justify-content-center">
-<a role="button" class="btn btn-primary mx-2 my-4" href="https://github.com/truesight-team/vinaseed-apps/releases/download/dev/VinaseedNhanVien.apk">
+<a role="button" class="btn btn-primary mx-2 my-4" href="https://install.appcenter.ms/users/tientv20-fpt.com.vn/apps/salesvector_vinaseed_android/distribution_groups/fpt">
   Android
 </a>
 
-<a role="button" class="btn btn-primary mx-2 my-4" href="itms-services:///?action=download-manifest&url=https://vinaseed-apps.truesight.asia/downloads/vinaseed-staff.plist">
+<a role="button" class="btn btn-primary mx-2 my-4" href="https://install.appcenter.ms/users/tientv20-fpt.com.vn/apps/salesvector_vinaseed_ios/distribution_groups/fpt">
+  iOS
+</a>
+</div>
+
+
+
+# Động Lực
+### App Đại lý
+
+### App Nhân viên
+<div class="d-flex justify-content-center">
+<a role="button" class="btn btn-primary mx-2 my-4" href="https://install.appcenter.ms/users/tientv20-fpt.com.vn/apps/dl-dms-android/distribution_groups/fpt">
+  Android
+</a>
+
+<a role="button" class="btn btn-primary mx-2 my-4" href="https://install.appcenter.ms/users/tientv20-fpt.com.vn/apps/dl-dms-ios/distribution_groups/fpt">
   iOS
 </a>
 </div>
