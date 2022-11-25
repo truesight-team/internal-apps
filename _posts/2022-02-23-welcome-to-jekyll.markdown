@@ -8,10 +8,10 @@ categories: jekyll update
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.1/css/bootstrap.min.css" integrity="sha512-T584yQ/tdRR5QwOpfvDfVQUidzfgc2339Lc8uBDtcp/wYu80d7jwBgAxbyMh0a9YM9F8N3tdErpFI8iaGx6x5g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
-# Rạng Đông
-### App Đại lý
+# App nhân viên
 
-### App Nhân viên
+## Rạng Đông
+#### 1. Dev
 <div class="d-flex justify-content-center">
 <a role="button" class="btn btn-primary mx-2 my-4" href="https://install.appcenter.ms/users/tungpt46.fpt/apps/dms-android/distribution_groups/fpt">
   Android
@@ -22,12 +22,12 @@ categories: jekyll update
 </a>
 </div>
 
+#### 2. Production
+<a role="button" href="https://rangdong-apps.truesight.asia">
+ https://rangdong-apps.truesight.asia
+</a>
 
-# Vinaseed
-
-### App Đại lý
-
-### App Nhân viên
+## Vinaseed
 #### 1. Dev
 <div class="d-flex justify-content-center">
 <a role="button" class="btn btn-primary mx-2 my-4" href="https://install.appcenter.ms/users/tientv20-fpt.com.vn/apps/salesvector_vinaseed_android/distribution_groups/fpt">
@@ -51,10 +51,7 @@ categories: jekyll update
 </div>
 
 
-# Động Lực
-### App Đại lý
-
-### App Nhân viên
+## Động Lực
 <div class="d-flex justify-content-center">
 <a role="button" class="btn btn-primary mx-2 my-4" href="https://install.appcenter.ms/users/tientv20-fpt.com.vn/apps/dl-dms-android/distribution_groups/fpt">
   Android
