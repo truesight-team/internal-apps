@@ -52,6 +52,7 @@ categories: jekyll update
 
 
 ## Động Lực
+#### 1. Dev
 <div class="d-flex justify-content-center">
 <a role="button" class="btn btn-primary mx-2 my-4" href="https://install.appcenter.ms/users/tientv20-fpt.com.vn/apps/dl-dms-android/distribution_groups/fpt">
   Android
@@ -59,5 +60,16 @@ categories: jekyll update
 
 <a role="button" class="btn btn-primary mx-2 my-4" href="https://install.appcenter.ms/users/tientv20-fpt.com.vn/apps/dl-dms-ios/distribution_groups/fpt">
   iOS
+</a>
+</div>
+
+#### 2. Production
+<div class="d-flex justify-content-center">
+<a role="button" class="btn btn-primary mx-2 my-4" href="https://install.appcenter.ms/users/tientv20-fpt.com.vn/apps/dl-dms-android/distribution_groups/production">
+  Android
+</a>
+
+<a role="button" class="btn btn-primary mx-2 my-4" href="https://install.appcenter.ms/users/tientv20-fpt.com.vn/apps/dl-dms-ios/distribution_groups/production">
+  IOS
 </a>
 </div>
