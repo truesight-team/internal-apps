@@ -73,3 +73,19 @@ categories: jekyll update
   IOS
 </a>
 </div>
+
+
+# App đại lý 
+
+## Rạng Đông
+#### 1. Dev
+<div class="d-flex justify-content-center">
+<a role="button" class="btn btn-primary mx-2 my-4" href="https://install.appcenter.ms/users/tientv20-fpt.com.vn/apps/agency_rd_app_android/distribution_groups/fpt">
+  Android
+</a>
+
+<a role="button" class="btn btn-primary mx-2 my-4" href="https://install.appcenter.ms/users/tientv20-fpt.com.vn/apps/agency_rd_app_ios/distribution_groups/fpt">
+  iOS
+</a>
+</div>
+
