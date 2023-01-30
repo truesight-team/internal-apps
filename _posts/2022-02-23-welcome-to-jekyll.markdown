@@ -42,7 +42,7 @@ categories: jekyll update
 #### 2. Production
 
 <a role="button" href="https://vinaseed-apps.truesight.asia/">
- https://vinaseed-apps.truesight.asia/
+ https://vinaseed-apps.truesight.asia
 </a>
 
 <div class="d-flex justify-content-center">
@@ -71,6 +71,10 @@ categories: jekyll update
 </div>
 
 #### 2. Production
+<a role="button" href="https://dongluc.truesight.asia/download/">
+ https://dongluc.truesight.asia/download
+</a>
+
 <div class="d-flex justify-content-center">
 <a role="button" class="btn btn-primary mx-2 my-4" href="https://install.appcenter.ms/users/tientv20-fpt.com.vn/apps/dl-dms-android/distribution_groups/production">
   Android
