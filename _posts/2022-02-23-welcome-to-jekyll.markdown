@@ -45,22 +45,17 @@ categories: jekyll update
  https://vinaseed-apps.truesight.asia/
 </a>
 
-[//]: # (<div class="d-flex justify-content-center">)
+<div class="d-flex justify-content-center">
+<a role="button" class="btn btn-primary mx-2 my-4" href="https://install.appcenter.ms/users/tientv20-fpt.com.vn/apps/salesvector_vinaseed_android/distribution_groups/production">
+  Android
+</a>
 
-[//]: # (<a role="button" class="btn btn-primary mx-2 my-4" href="https://install.appcenter.ms/users/tientv20-fpt.com.vn/apps/salesvector_vinaseed_android/distribution_groups/production">)
 
-[//]: # (  Android)
+<a role="button" class="btn btn-primary mx-2 my-4" href="https://install.appcenter.ms/users/tientv20-fpt.com.vn/apps/salesvector_vinaseed_ios/distribution_groups/production">
+  IOS
+</a>
 
-[//]: # (</a>)
-
-[//]: # ()
-[//]: # (<a role="button" class="btn btn-primary mx-2 my-4" href="https://install.appcenter.ms/users/tientv20-fpt.com.vn/apps/salesvector_vinaseed_ios/distribution_groups/production">)
-
-[//]: # (  IOS)
-
-[//]: # (</a>)
-
-[//]: # (</div>)
+</div>
 
 
 ## Động Lực
