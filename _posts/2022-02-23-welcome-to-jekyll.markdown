@@ -13,11 +13,11 @@ categories: jekyll update
 ## Rạng Đông
 #### 1. Dev
 <div class="d-flex justify-content-center">
-<a role="button" class="btn btn-primary mx-2 my-4" href="https://install.appcenter.ms/users/tungpt46.fpt/apps/dms-android/distribution_groups/fpt">
+<a role="button" class="btn btn-primary mx-2 my-4" href="https://install.appcenter.ms/users/tungpt46/apps/dms-android/distribution_groups/fpt">
   Android
 </a>
 
-<a role="button" class="btn btn-primary mx-2 my-4" href="https://install.appcenter.ms/users/tungpt46.fpt/apps/dms-ios/distribution_groups/fpt">
+<a role="button" class="btn btn-primary mx-2 my-4" href="https://install.appcenter.ms/users/tungpt46/apps/dms-ios/distribution_groups/fpt">
   iOS
 </a>
 </div>
