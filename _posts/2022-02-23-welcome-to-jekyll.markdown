@@ -30,11 +30,11 @@ categories: jekyll update
 ## Vinaseed
 #### 1. Dev
 <div class="d-flex justify-content-center">
-<a role="button" class="btn btn-primary mx-2 my-4" href="https://install.appcenter.ms/users/tientv20-fpt.com.vn/apps/salesvector_vinaseed_android/distribution_groups/fpt">
+<a role="button" class="btn btn-primary mx-2 my-4" href="https://install.appcenter.ms/users/tientv20/apps/salesvector_vinaseed_android/distribution_groups/fpt">
   Android
 </a>
 
-<a role="button" class="btn btn-primary mx-2 my-4" href="https://install.appcenter.ms/users/tientv20-fpt.com.vn/apps/salesvector_vinaseed_ios/distribution_groups/fpt">
+<a role="button" class="btn btn-primary mx-2 my-4" href="https://install.appcenter.ms/users/tientv20/apps/salesvector_vinaseed_ios/distribution_groups/fpt">
   iOS
 </a>
 </div>
@@ -46,12 +46,12 @@ categories: jekyll update
 </a>
 
 <div class="d-flex justify-content-center">
-<a role="button" class="btn btn-primary mx-2 my-4" href="https://install.appcenter.ms/users/tientv20-fpt.com.vn/apps/salesvector_vinaseed_android/distribution_groups/production">
+<a role="button" class="btn btn-primary mx-2 my-4" href="https://install.appcenter.ms/users/tientv20/apps/salesvector_vinaseed_android/distribution_groups/production">
   Android
 </a>
 
 
-<a role="button" class="btn btn-primary mx-2 my-4" href="https://install.appcenter.ms/users/tientv20-fpt.com.vn/apps/salesvector_vinaseed_ios/distribution_groups/production">
+<a role="button" class="btn btn-primary mx-2 my-4" href="https://install.appcenter.ms/users/tientv20/apps/salesvector_vinaseed_ios/distribution_groups/production">
   IOS
 </a>
 
@@ -61,11 +61,11 @@ categories: jekyll update
 ## Động Lực
 #### 1. Dev
 <div class="d-flex justify-content-center">
-<a role="button" class="btn btn-primary mx-2 my-4" href="https://install.appcenter.ms/users/tientv20-fpt.com.vn/apps/dl-dms-android/distribution_groups/fpt">
+<a role="button" class="btn btn-primary mx-2 my-4" href="https://install.appcenter.ms/users/tientv20/apps/dl-dms-android/distribution_groups/fpt">
   Android
 </a>
 
-<a role="button" class="btn btn-primary mx-2 my-4" href="https://install.appcenter.ms/users/tientv20-fpt.com.vn/apps/dl-dms-ios/distribution_groups/fpt">
+<a role="button" class="btn btn-primary mx-2 my-4" href="https://install.appcenter.ms/users/tientv20/apps/dl-dms-ios/distribution_groups/fpt">
   iOS
 </a>
 </div>
@@ -76,11 +76,11 @@ categories: jekyll update
 </a>
 
 <div class="d-flex justify-content-center">
-<a role="button" class="btn btn-primary mx-2 my-4" href="https://install.appcenter.ms/users/tientv20-fpt.com.vn/apps/dl-dms-android/distribution_groups/production">
+<a role="button" class="btn btn-primary mx-2 my-4" href="https://install.appcenter.ms/users/tientv20/apps/dl-dms-android/distribution_groups/production">
   Android
 </a>
 
-<a role="button" class="btn btn-primary mx-2 my-4" href="https://install.appcenter.ms/users/tientv20-fpt.com.vn/apps/dl-dms-ios/distribution_groups/production">
+<a role="button" class="btn btn-primary mx-2 my-4" href="https://install.appcenter.ms/users/tientv20/apps/dl-dms-ios/distribution_groups/production">
   IOS
 </a>
 </div>
@@ -91,11 +91,11 @@ categories: jekyll update
 ## Rạng Đông
 #### 1. Dev
 <div class="d-flex justify-content-center">
-<a role="button" class="btn btn-primary mx-2 my-4" href="https://install.appcenter.ms/users/tientv20-fpt.com.vn/apps/agency_rd_app_android/distribution_groups/fpt">
+<a role="button" class="btn btn-primary mx-2 my-4" href="https://install.appcenter.ms/users/tientv20/apps/agency_rd_app_android/distribution_groups/fpt">
   Android
 </a>
 
-<a role="button" class="btn btn-primary mx-2 my-4" href="https://install.appcenter.ms/users/tientv20-fpt.com.vn/apps/agency_rd_app_ios/distribution_groups/fpt">
+<a role="button" class="btn btn-primary mx-2 my-4" href="https://install.appcenter.ms/users/tientv20/apps/agency_rd_app_ios/distribution_groups/fpt">
   iOS
 </a>
 </div>
@@ -103,11 +103,11 @@ categories: jekyll update
 ## Vinaseed
 #### 1. Dev
 <div class="d-flex justify-content-center">
-<a role="button" class="btn btn-primary mx-2 my-4" href="https://install.appcenter.ms/users/tientv20-fpt.com.vn/apps/agency_vinaseed_android/distribution_groups/fpt">
+<a role="button" class="btn btn-primary mx-2 my-4" href="https://install.appcenter.ms/users/tientv20/apps/agency_vinaseed_android/distribution_groups/fpt">
   Android
 </a>
 
-<a role="button" class="btn btn-primary mx-2 my-4" href="https://install.appcenter.ms/users/tientv20-fpt.com.vn/apps/agency_vinaseed_ios/distribution_groups/fpt">
+<a role="button" class="btn btn-primary mx-2 my-4" href="https://install.appcenter.ms/users/tientv20/apps/agency_vinaseed_ios/distribution_groups/fpt">
   iOS
 </a>
 </div>
@@ -115,11 +115,11 @@ categories: jekyll update
 ## Động Lực
 #### 1. Dev
 <div class="d-flex justify-content-center">
-<a role="button" class="btn btn-primary mx-2 my-4" href="https://install.appcenter.ms/users/tientv20-fpt.com.vn/apps/agency_dl_app_android/distribution_groups/fpt">
+<a role="button" class="btn btn-primary mx-2 my-4" href="https://install.appcenter.ms/users/tientv20/apps/agency_dl_app_android/distribution_groups/fpt">
   Android
 </a>
 
-<a role="button" class="btn btn-primary mx-2 my-4" href="https://install.appcenter.ms/users/tientv20-fpt.com.vn/apps/agency_dl_app_ios/distribution_groups/fpt">
+<a role="button" class="btn btn-primary mx-2 my-4" href="https://install.appcenter.ms/users/tientv20/apps/agency_dl_app_ios/distribution_groups/fpt">
   iOS
 </a>
 </div>
