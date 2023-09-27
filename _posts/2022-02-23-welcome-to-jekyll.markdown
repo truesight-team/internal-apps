@@ -85,6 +85,23 @@ categories: jekyll update
 </a>
 </div>
 
+## Thầu thợ
+#### 1. Dev
+<div class="d-flex justify-content-center">
+<a role="button" class="btn btn-primary mx-2 my-4" href="https://install.appcenter.ms/users/maivtt14/apps/construction-android/distribution_groups/fpt">
+  Android
+</a>
+
+<a role="button" class="btn btn-primary mx-2 my-4" href="https://install.appcenter.ms/users/maivtt14/apps/construction-ios/distribution_groups/fpt">
+  iOS
+</a>
+</div>
+
+#### 2. Production
+<a role="button" href="https://rangdong-apps.truesight.asia">
+ https://rangdong-apps.truesight.asia
+</a>
+
 
 # App đại lý 
 
